@@ -1,6 +1,7 @@
 # Automated-Legal-Entity
 This is a repository for the creation of an Automated Legal Entity (ALE)
 
+Please look in "Issues" for initial work. The branches will updated based on issue resolution.
 
 This initially exists to answer the questions:
 
