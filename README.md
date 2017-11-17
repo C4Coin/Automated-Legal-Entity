@@ -1,16 +1,28 @@
 # Automated-Legal-Entity
-This is a repository for the creation of an Automated Legal Entity (ALE)
 
-Please look in "Issues" for initial work. The branches will updated based on issue resolution.
+Creating an Automated Legal Entity (ALE)
 
-This initially exists to answer the questions:
+## Questions:
 
-What are the components of an ALE?
+* What are the components of an ALE?
+* What are the inputs and outputs of an ALE?
+* How do the internal mechanisms of an ALE function?
 
-What are the inputs and outputs of an ALE?
+## Sections
 
-How do the internal mechanisms of an ALE function?
+* [Secretary of State Compliance](docs/secretary-of-state-compliance.md)
+* [Accounting Protocols](docs/accounting-protocols.md)
+* [Banking Interface](docs/banking-interface.md)
+* [HR / Employment Management](docs/hr-employment-management.md)
+* [Front-Facing Web Portal](docs/front-facing-web-portal.md)
+* [Project Management Integration](docs/project-management-integration.md)
+* [Governance Mechanism](docs/governance-mechanism.md)
+* [Blockchain Implementation](docs/blockchain-implementation.md)
 
+## Issue Details
 
-The core team can work on the master branch until an agreed upon time when they will migrate to their own branches.
+Please see [`Issues`](issues/) for initial work.
 
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
